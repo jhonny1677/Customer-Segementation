@@ -1,0 +1,14 @@
+2022-06-07 01:03:50,676:INFO:Initializing load_model()
+2022-06-07 01:03:50,676:INFO:load_model(model_name=Final Kmeans Model, platform=None, authentication=None, verbose=True)
+2023-05-03 22:16:52,582:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 22:16:52,582:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 22:16:52,582:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 22:16:52,582:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 22:16:52,607:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-03 22:16:53,554:INFO:Initializing load_model()
+2023-05-03 22:16:53,554:INFO:load_model(model_name=C:\Users\ankit\Documents\modular_code\output\Final_kmeans_model, platform=None, authentication=None, verbose=True)
