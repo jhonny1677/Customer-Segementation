@@ -22,16 +22,20 @@ After cloning the repository, make sure you have the necessary dependencies inst
 
 `pip install -r requirements.txt`
 
+You can execute the Streamlit App by running the Command:
+
+`streamlit run app.py`
+
 
 ## Usage
 
-Once you have the repository and dependencies set up, you can use the provided code to perform customer segmentation analysis. The main entry point is the `customer_segmentation.ipynb` Jupyter Notebook. Open the notebook and follow the step-by-step instructions to analyze your own customer data.
+Once you have the repository and dependencies set up, you can use the provided code to perform customer segmentation analysis. The main entry point is the `Customer Segmentation With Pycaret.ipynb` Jupyter Notebook. Open the notebook and follow the step-by-step instructions to analyze your own customer data.
 
 Feel free to modify the code to suit your specific needs. You can explore different algorithms, feature engineering techniques, or visualization methods to enhance the analysis.
 
 ## Data
 
-The data used for this analysis should be provided separately. The `data` directory in the repository contains a template CSV file (`customer_data.csv`) to demonstrate the expected format. Replace this file with your own dataset or update the code accordingly.
+The data used for this analysis should be provided separately. The `input` directory in the repository contains a template CSV file (`jewel_data.csv`) to demonstrate the expected format. Replace this file with your own dataset or update the code accordingly.
 
 Ensure that your data is preprocessed and in a suitable format before running the analysis. The notebook provides guidelines and examples for data preprocessing steps.
 
@@ -41,7 +45,7 @@ This repository implements customer segmentation using various machine learning 
 
 - K-means clustering
 
-Each method is implemented in a separate section of the `customer_segmentation.ipynb` notebook. Detailed explanations and code examples are provided within the notebook to guide you through the analysis.
+Each method is implemented in a separate section of the `Customer Segmentation With Pycaret.ipynb` notebook. Detailed explanations and code examples are provided within the notebook to guide you through the analysis.
 
 ## Results
 
